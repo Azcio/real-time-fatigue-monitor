@@ -5,3 +5,12 @@ Achievements:
 Achieved 1st class for this project in a Computer Vision/Machine Learning course
 Built a fully functional pipeline from data acquisition to model inference
 Demonstrated strong skills in Python, OpenCV, and ML model integration in real-world scenarios
+
+How to run:
+- Python 3.x installed
+- Webcam connected
+- Required Python packages installed
+
+- first run LoadData.py file
+- Then run fatigueModel.py file (will take about 2-5 mins)
+- Finally run main.py (Make sure camera is connected and not in use, to stop running press "Q")
